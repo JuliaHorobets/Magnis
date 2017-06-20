@@ -1,0 +1,40 @@
+form{
+margin-top:20px;
+margin-bottom: 25px;
+font-size: 20px; 
+font-family: 'Mogra', cursive;
+font-family: 'Courgette', cursive;   
+}
+
+p{
+margin-top: 50px;
+width: 100%;
+text-align: center;
+font-size: 25px;
+font-family: 'Mogra', cursive;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+td, th {
+  border: 2px solid black;
+  padding: 3px;
+  text-align: center;
+  background-color:#8F9DB0;
+  color: #4D3000;
+  width: calc(100%/7);
+
+}
+
+th {
+ font-weight: bold;
+ background-color: #2C4770;
+ color: #D9B57A;
+
+}
+
+td:hover {
+  background: #566E8F;
